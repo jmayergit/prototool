@@ -1,5 +1,7 @@
 module github.com/uber/prototool
 
+replace github.com/uber/prototool => github.com/jmayergit/prototool v1.20.0
+
 go 1.14
 
 require (
