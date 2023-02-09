@@ -24,11 +24,11 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	"github.com/uber/prototool/internal/extract"
-	"github.com/uber/prototool/internal/reflect"
-	"github.com/uber/prototool/internal/settings"
-	ptesting "github.com/uber/prototool/internal/testing"
-	"github.com/uber/prototool/internal/text"
+	"github.com/jmayergit/prototool/internal/extract"
+	"github.com/jmayergit/prototool/internal/reflect"
+	"github.com/jmayergit/prototool/internal/settings"
+	ptesting "github.com/jmayergit/prototool/internal/testing"
+	"github.com/jmayergit/prototool/internal/text"
 )
 
 func TestRunOne(t *testing.T) {

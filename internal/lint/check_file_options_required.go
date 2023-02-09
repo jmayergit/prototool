@@ -24,7 +24,7 @@ import (
 	"text/scanner"
 
 	"github.com/emicklei/proto"
-	"github.com/uber/prototool/internal/text"
+	"github.com/jmayergit/prototool/internal/text"
 )
 
 var fileOptionsRequireCSharpNamespaceLinter = NewLinter(

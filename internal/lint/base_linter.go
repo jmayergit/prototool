@@ -25,9 +25,9 @@ import (
 	"strings"
 
 	"github.com/emicklei/proto"
-	"github.com/uber/prototool/internal/file"
-	"github.com/uber/prototool/internal/settings"
-	"github.com/uber/prototool/internal/text"
+	"github.com/jmayergit/prototool/internal/file"
+	"github.com/jmayergit/prototool/internal/settings"
+	"github.com/jmayergit/prototool/internal/text"
 )
 
 type baseLinter struct {

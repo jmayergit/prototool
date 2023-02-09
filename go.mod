@@ -1,6 +1,4 @@
-module github.com/uber/prototool
-
-replace github.com/uber/prototool => github.com/jmayergit/prototool v1.22.0
+module github.com/jmayergit/prototool
 
 go 1.14
 

@@ -21,8 +21,8 @@
 package breaking
 
 import (
-	"github.com/uber/prototool/internal/extract"
-	"github.com/uber/prototool/internal/text"
+	"github.com/jmayergit/prototool/internal/extract"
+	"github.com/jmayergit/prototool/internal/text"
 )
 
 func checkMessageFieldsSameLabel(addFailure func(*text.Failure), from *extract.PackageSet, to *extract.PackageSet) error {

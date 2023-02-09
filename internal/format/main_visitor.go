@@ -25,7 +25,7 @@ import (
 	"strings"
 
 	"github.com/emicklei/proto"
-	"github.com/uber/prototool/internal/text"
+	"github.com/jmayergit/prototool/internal/text"
 )
 
 var _ proto.Visitor = &mainVisitor{}
